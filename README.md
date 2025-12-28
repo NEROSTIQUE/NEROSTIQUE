@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nerostique) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nerostique) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nerostique) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nerostique) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/NEROSTIQUE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in/nerostique) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&logoWidth=30)](https://medium.com/@nerostique) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&logoWidth=30)](https://reddit.com/user/nerostique) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&logoWidth=30)](https://x.com/nerostique) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&logoWidth=30)](https://tryhackme.com/r/p/NEROSTIQUE)
 
 
 # 💻 Tech Stack:
