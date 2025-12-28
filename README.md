@@ -1,11 +1,10 @@
-<h1 align="center">## Hi there 👋...!!!!<br>N3R0 This Side............</h1>
+<h1 align="center"> Hi there 👋!!!!<br>N3R0 This Side.......</h1>
+
+🌐 Socials:<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in/nerostique) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&logoWidth=30)](https://medium.com/@nerostique) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&logoWidth=30)](https://reddit.com/user/nerostique) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&logoWidth=30)](https://x.com/nerostique) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&logoWidth=30)](https://tryhackme.com/r/p/NEROSTIQUE)</div>
+
 # 💫 About Me:
 👋 Hi, I’m Rajat (aka nerostique)<br><br>🔐 Cybersecurity | Blue Team Mindset with Red Team Curiosity<br><br>I work in cybersecurity because assuming systems are secure has never ended well. My focus is on understanding how attackers think, how defenses fail, and how to make security controls actually useful instead of just noisy.<br><br>I enjoy digging into networks, logs, binaries, and cloud configurations, asking uncomfortable questions like “what if this is abused?” and then proving whether it can be. I prefer evidence over assumptions and calm analysis over panic alerts.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in/nerostique) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&logoWidth=30)](https://medium.com/@nerostique) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&logoWidth=30)](https://reddit.com/user/nerostique) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&logoWidth=30)](https://x.com/nerostique) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&logoWidth=30)](https://tryhackme.com/r/p/NEROSTIQUE)
-
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
