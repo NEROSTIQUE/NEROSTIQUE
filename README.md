@@ -1,4 +1,5 @@
 ## Hi there 👋
+N3R05T1QU3 This Side............
 # 💫 About Me:
 👋 Hi, I’m Rajat (aka nerostique)<br><br>🔐 Cybersecurity | Blue Team Mindset with Red Team Curiosity<br><br>I work in cybersecurity because assuming systems are secure has never ended well. My focus is on understanding how attackers think, how defenses fail, and how to make security controls actually useful instead of just noisy.<br><br>I enjoy digging into networks, logs, binaries, and cloud configurations, asking uncomfortable questions like “what if this is abused?” and then proving whether it can be. I prefer evidence over assumptions and calm analysis over panic alerts.
 
